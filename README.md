@@ -1,51 +1,42 @@
-<div align="center">
-  <h2>👋 Hello, Fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
-  <p>Welcome to my GitHub profile! Glad to have you here. Let's build something awesome together!</p>
-</div>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
----
+<p>Welcome to my page! </br> I'm Umidjon, a passionate <strong>Java Software Engineer</strong>.</p>
 
-<h2 align="left">👨‍💻 About Me</h2>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
+<h3>🛠️ Things I Code With</h3>
 <p>
-  Hi there! My name is <strong>Umidjon Tursunov</strong>, and I'm a passionate <strong>Java Backend Developer</strong> from <strong>Uzbekistan</strong> 🇺🇿.
+  <img alt="Java" src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=java" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff" />
+  <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=fff" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Postgres" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />
+  <img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch" />
+  <img alt="OracleDB" src="https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
+  <img alt="gitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
+  <img alt="gitLab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab" />
+  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman" />
 </p>
-
-<ul>
-  <li>🌱 I’m currently improving my skills in Spring Boot and microservices architecture.</li>
-  <li>💡 I enjoy learning about system design and scalable backend systems.</li>
-  <li>🎯 My goal is to contribute to impactful open-source projects.</li>
-  <li>⚡ Fun fact: I love playing games and testing new technologies.</li>
-</ul>
-
----
-
-<h2 align="left">🛠️ Tech Stack</h2>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
-</div>
 
 ---
 
 <h2 align="left">🌐 Connect with Me</h2>
 
-<div align="left">
+<p align="left">
   <a href="https://instagram.com/muydinov__u" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="25" alt="Instagram" />
   </a>
   <a href="https://www.linkedin.com/in/umidjon-tursunov-a64087228/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="25" alt="LinkedIn" />
   </a>
   <a href="https://t.me/muydinov_u" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Telegram logo" />
+    <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white" height="25" alt="Telegram" />
   </a>
-</div>
+</p>
 
 ---
 
@@ -58,14 +49,5 @@
 
 ---
 
-<h2 align="left">🚀 Current Goals</h2>
-<ul>
-  <li>🎓 Master Docker and container orchestration.</li>
-  <li>🌐 Build scalable APIs using modern Java frameworks.</li>
-  <li>📖 Explore cloud computing with AWS and Azure.</li>
-</ul>
-
----
-
 <h2 align="center">✨ Thanks for visiting! ✨</h2>
-<p align="center">Feel free to explore my repositories and connect with me on social media. Let's collaborate and grow together!</p>
+<p align="center">Feel free to explore my repositories and connect with me. Let's collaborate and build something awesome!</p>
