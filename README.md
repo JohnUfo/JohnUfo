@@ -15,6 +15,12 @@
   <img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch" />
   <img alt="OracleDB" src="https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" />
+  <img alt="AWS S3" src="https://img.shields.io/badge/AWS%20S3-569A31?logo=amazonaws&logoColor=white" />
+  <img alt="AWS EC2" src="https://img.shields.io/badge/AWS%20EC2-F8991D?logo=amazonec2&logoColor=white" />
+  <img alt="AWS RDS" src="https://img.shields.io/badge/AWS%20RDS-527FFF?logo=amazonrds&logoColor=white" />
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
   <img alt="gitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
   <img alt="gitLab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab" />
