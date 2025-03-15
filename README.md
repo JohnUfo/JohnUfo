@@ -10,12 +10,14 @@
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff" /> 
   <img alt="Spring Security" src="https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=fff" /> 
   <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=fff" /> 
+  <img alt="JPA" src="https://img.shields.io/badge/JPA-59666C?logo=hibernate&logoColor=fff" /> 
+  <img alt="Microservices" src="https://img.shields.io/badge/Microservices-6DB33F?logo=springboot&logoColor=fff" /> 
+  <img alt="REST" src="https://img.shields.io/badge/REST-6DB33F?logo=springboot&logoColor=fff" /> 
+  <img alt="SOAP" src="https://img.shields.io/badge/SOAP-6DB33F?logo=springboot&logoColor=fff" /> 
   <img alt="Flyway" src="https://img.shields.io/badge/Flyway-CC0200?logo=flyway&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /> 
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" /> 
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" /> 
-  <img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch" /> 
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" /> 
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" /> 
   <img alt="AWS S3" src="https://img.shields.io/badge/AWS%20S3-569A31?logo=amazonaws&logoColor=white" /> 
   <img alt="AWS Elastic Beanstalk" src="https://img.shields.io/badge/AWS%20Elastic%20Beanstalk-FF9900?logo=amazonaws&logoColor=white" /> 
