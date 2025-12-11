@@ -48,7 +48,3 @@
     <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white" height="25" alt="Telegram" />
   </a>
 </p>
----
-
-<h2 align="center">✨ Thanks for visiting! ✨</h2>
-<p align="center">Feel free to explore my repositories and connect with me. Let's collaborate and build something awesome!</p>
