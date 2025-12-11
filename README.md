@@ -48,16 +48,6 @@
     <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white" height="25" alt="Telegram" />
   </a>
 </p>
-
----
-
-<h2 align="left">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JohnUfo&show_icons=true&theme=radical" alt="Umidjon's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnUfo&layout=compact&theme=radical" alt="Top Languages" height="150" />
-</div>
-
 ---
 
 <h2 align="center">✨ Thanks for visiting! ✨</h2>
