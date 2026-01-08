@@ -2,7 +2,7 @@
 <p>Welcome to my page! </br> I'm Umidjon, an N8N Automation Engineer specializing in workflow automation and API integrations.</p>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
-<h3>💼 Professional Experience</h3>
+<h3>💼 Experience</h3>
 <p>
   <strong>N8N Automation Engineer</strong> - Prosight DEV (Part-time, Remote)<br/>
   <em>Dec 2025 - Present</em>
